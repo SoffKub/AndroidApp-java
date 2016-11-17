@@ -1,0 +1,133 @@
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="layout.BlankFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/scrollView"
+            android:layout_gravity="center_horizontal|top" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/cost_image"
+                    android:src="@drawable/cost"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/cost_image"
+                    android:text="@string/calculate_cost"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="15dp"
+                    android:paddingLeft="16dp"
+                    android:paddingRight="16dp"
+                    android:textSize="20dp"
+                    android:id="@+id/textView5" />
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/linear_cost"
+                    android:layout_below="@id/textView5"
+                    android:layout_centerHorizontal="true"
+                    android:paddingLeft="16dp"
+                    android:paddingRight="16dp">
+
+                    <ImageView
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/kilo_button"
+                        android:src="@drawable/kilo_selected"
+                        />
+
+                    <ImageView
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/volume_button"
+                        android:src="@drawable/volume_unselected"/>
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/cost_string"
+                    android:layout_below="@id/linear_cost"
+                    android:id="@+id/textView6"
+                    android:paddingLeft="16dp"
+                    android:paddingRight="16dp"/>
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@id/textView6"
+                    android:paddingLeft="16dp"
+                    android:id="@+id/linear_cost_layout"
+                    android:layout_centerHorizontal="true">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/cost_input"
+                        android:layout_marginRight="10dp"
+                        android:id="@+id/textView7" />
+
+                    <EditText
+                        android:layout_width="150dp"
+                        android:layout_height="wrap_content"
+                        android:inputType="number"
+                        android:ems="10"
+                        android:id="@+id/editText" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="@string/cost_unit_kg"
+                        android:id="@+id/cost_unit" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_below="@id/linear_cost_layout"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginBottom="20dp"
+                    android:paddingLeft="16dp"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/cost_output"
+
+                        android:id="@+id/textView8" />
+
+                    <TextView
+                        android:layout_width="190dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="15dp"
+                        android:visibility="invisible"
+                        android:text=""
+                        android:id="@+id/textView"
+                        android:gravity="center"
+                        android:background="@drawable/border"/>
+                </LinearLayout>
+
+
+            </RelativeLayout>
+        </ScrollView>
+
+    </FrameLayout>

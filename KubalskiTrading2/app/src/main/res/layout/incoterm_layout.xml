@@ -1,0 +1,111 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="layout.BlankFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/relative_layout"
+        android:layout_marginBottom="15dp"
+        >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:src="@drawable/incoterm_top"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/incoterm2"
+            android:layout_marginTop="15dp"
+            android:id="@+id/textView1"
+            android:paddingRight="16dp"
+            android:paddingLeft="16dp"
+            android:layout_below="@+id/imageView" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/incoterm3"
+            android:id="@+id/textView2"
+            android:layout_below="@+id/textView1"
+            android:layout_marginTop="15dp"
+            android:paddingRight="16dp"
+            android:paddingLeft="16dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/incoterm4"
+            android:layout_below="@+id/textView2"
+            android:id="@+id/textView3"
+            android:layout_marginTop="15dp"
+            android:paddingRight="16dp"
+            android:paddingLeft="16dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/incoterm_image"
+            android:src="@drawable/incoterm"
+            android:layout_marginTop="15dp"
+            android:layout_below="@id/textView3" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/linear_layout"
+            android:gravity="center"
+            android:layout_below="@id/incoterm_image"
+            android:layout_marginTop="15dp"
+            android:paddingRight="16dp"
+            android:paddingLeft="16dp"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/incoterm_selector"
+                android:id="@+id/textView4" />
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_marginLeft="5dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/cif_unselected"
+                android:id="@+id/cif_button"
+                />
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/fob_unselected"
+                android:id="@+id/fob_button"
+                />
+        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/dynamic_text"
+            android:layout_below="@+id/linear_layout"
+            android:autoLink="web"
+            android:paddingRight="16dp"
+            android:paddingLeft="16dp"/>
+
+    </RelativeLayout>
+    </ScrollView>
+</FrameLayout>

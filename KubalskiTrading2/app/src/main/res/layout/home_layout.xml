@@ -1,0 +1,76 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="layout.BlankFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/home"
+                android:src="@drawable/home"/>
+
+            <TextView
+                android:layout_below="@+id/home"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/home1"
+                android:id="@+id/textView"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/chinaoffice"
+                android:layout_below="@+id/textView"
+                android:id="@+id/imageView"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/home2"
+                android:layout_below="@+id/imageView"
+                android:id="@+id/textView2"
+                android:layout_marginTop="15dp"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView2"
+                android:text="@string/home3"
+                android:id="@+id/textView3"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="16dp"
+                android:layout_alignParentRight="true"
+                android:text="Send email"
+                android:layout_below="@id/textView2"
+                android:id="@+id/button"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"/>
+        </RelativeLayout>
+    </ScrollView>
+
+</FrameLayout>

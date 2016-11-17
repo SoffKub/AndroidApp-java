@@ -1,0 +1,190 @@
+<resources>
+    <string name="app_name">KubalskiTrading</string>
+    <string name="action_settings">Settings</string>
+    <string name="for_you">
+        &#8226;<i>Vi går direkt till rätt leverantör utan mellanhänder.</i> \n
+        &#8226;<i>Vi tar hela ansvaret från dörr till dörr.</i>\n
+        &#8226;<i>Vi hjälper dig från idé till produkt.</i>\n
+        &#8226;<i>Vi hjälper dig att skapa dina detaljer/produkter, till rätt pris med önskad kvalitet.</i> \n
+        \n
+        <b>Första steget:</b>
+        \n
+        \n
+        Du som kund skickar in information till oss om din detalj/produkt som du vill tillverka i Kina och/eller Indien.
+        Det kan vara en ritning, innehållsförteckning,skiss, mönster eller en fysisk produkt.
+        \n
+        \n
+        Vi går igenom, vilken/vilka av våraleverantörer/tillverkare som ärlämpade för er produkt.
+        Vi skickar ut en förfrågan tillutvalda leverantörer/tillverkare.
+        \n
+        \n
+        Vi återkommer till er med offert.
+        \n
+        <b>Hit är det helt kostnadsfritt!!</b>
+        \n
+        \n
+        <b>Andra steget:</b>
+        \n
+        \n
+        När vi fått ett godkännande från er på offerten, skapas ett första prov, och samarbetet tar sin början.
+        Spännande! Vi kommer vara er kontakt med vald leverantör/tillverkare och ansvarar för beställningen från dörr till dörr.
+        Vi ombesörjer även lagerhållning, paketering och transport om så önskas.
+        \n
+        \n
+        (Vi säkerställer att våra samarbetspartners arbetar efter kända kvalitetssystem, med minst ISO 9001 som bas, att produktionsverktygen håller hög standard och att moderna CAD-system är i bruk.)
+        </string>
+    <string name="home1">
+        \n
+        Kubalski Trading AB går direkt till rätt
+        leverantör utan mellanhänder.
+        Vi säkerställer att våra samarbetspartners
+        arbetar efter kända kvalitetssystem,
+        med minst ISO 9001 som bas,
+        att produktionsverktygen håller hög
+        standard och att moderna CAD-system är i bruk.
+        \n
+    </string>
+    <string name="home2">
+        \n
+        Med ett kontor i Sverige samt en fabrik i
+        Kina med 125 personer, ser vi till att ständigt
+        bevaka marknaden samt hålla en hög
+        servicegrad mot våra uppdragsgivare.
+        \n
+        \n
+        Våra kunder består av både små och stora företag
+        inom alla verksamhetsområden,
+        samt även privatpersoner.
+        \n
+        \n
+        Tveka inte att kontakta oss!
+        Oavsett volymstorlek är din förfrågan intressant.
+        \n
+    </string>
+    <string name="home3">
+        \n
+        <b><i>Edward Kubalski</i></b>
+        \n
+        Tel: 0157-402 55
+        \n
+        Fax: 0157-402 55
+        \n
+        Mobil: 0708-17 48 31
+        \n</string>
+    <string name="incoterm2">
+       <b><i>Reda ut begreppen:</i></b>
+        \n
+        \n
+        <b><i>”Incoterms</i></b> eller <b><i>international commerce terms</i></b> är en serie av internationella handelstermer,
+        standardiserade avtalsbegrepp, om hur  varutransportkostnader och ansvar ska  fördelas mellan köpare och säljare”. ( Wikipedia)
+    </string>
+    <string name="incoterm3">
+        <b><i>FOB</i></b> – <b><i>Free On Board:</i></b>
+        \n
+        Godset förs ombord på ett fartyg av säljaren i den  Inlastningshamn som är fastställd i avtalet.
+        Faran för förlust  Av eller skada på godset överförs från säljare till köpare när godset passerar fartygets reling.  (se bild)
+    </string>
+    <string name="incoterm4">
+        <b><i>CIF</i></b> – <b><i>Cost, Insurance and freight:</i></b>
+        \n
+        Säljaren ska i detta fall anskaffa en sjöförsäkring mot faran för förlust  av eller skada på godset under transporten.
+        Säljaren sluter avtal med försäkringsgivaren och betalar försäkringspremie.
+        (se bild)
+        \n
+        \n
+       <i> Klicka på denna bild så för att få enstörre inblick i de olika termerna innan vi fortsätter, vi använder oss mest av CIF och FOB.</i>
+    </string>
+    <string name="incoterm_selector">Välj vilken du vill läsa om:</string>
+    <string name="cif_string">
+        \n
+        <b>Incoterms-CIF</b>
+        \n
+        \n
+        <b>Incoterms är internationellt erkända regler vilka beskriver vem som bär ansvaret för varan under transporten och hur länge.</b>
+        \n
+        \n
+        Genom att hänvisa till dessa regler kan säljare och köpare undvika onödiga missförstånd.
+        Reglerna har förändrats ett antal gånger under årens lopp för att alltid vara anpassade till utvecklingen av internationell handel.
+        Den version som nu gäller har beteckningen Incoterms 2010. Incoterms är erkända av myndigheter och domstolar världen över.
+        Det är mycket viktigt att företagen (parterna) skriver kontrakt om vad som ska gälla under transporten.
+        Leverans villkoret bestämmer vem som ska betala försäkring av varorna under transporten, när risken för varorna övergår från säljaren till köparen m.m.
+        Incoterms talar om:
+        \n
+        \n
+        &#9830;Vem som ska betala transporten, försäkring och andra kostnader.\n
+        &#9830;Till vilken plats transporten ska ske.\n
+        &#9830;Om lastning och lossning ingår.\n
+        &#9830;När risken överförs från ena parten till den andra.\n
+        \n
+        \n
+        CIF - <b>Cost,Insurance,Freight</b>\n
+        (Fri kostnad, försäkring och frakt) (Med angiven destinationshamn)
+        \n
+        \n
+        CIF används bara vid sjötransport.
+        CIF betyder att båda parter har samma skyldigheter och rättigheter med undantag att säljaren har skyldighet att teckna och betala en sjötransport- försäkring.
+        Köparen står risken efter det att varorna lastats i avgångshamnen. Detta innebär att vid skador eller förlust så betalar försäkringsbolaget ut ersättning till köparen.
+        Säljarens är endast skyldig att teckna en försäkring med  minimalt skydd.
+        Vill köparen ha en försäkring med utökad täckning skall säljaren ordna det men köparen ska stå för kostnaden, om man inte avtalat något annat i köp-sälj avtalet.
+        Det är köparen som ska ordna med importen och avlastningen i ankomst- hamnen om det inte ingår i transporten.(källa expowera)
+        Är du intresserad att läsa mer om vad de olika fraktreglerna innebär se länk:
+        \n
+        \n
+        <a href="www.expowera.se">www.expowera.se</a>
+    </string>
+    <string name="fob_string">
+        \n
+        <b>Incoterms-FOB
+        \n
+        \n
+        Incoterms är internationellt erkända regler vilka beskriver vem som bär ansvaret för varan under transporten och hur länge.</b>
+        \n
+        \n
+        Genom att hänvisa till dessa regler kan säljare och  köpare undvika onödiga missförstånd.
+        Reglerna har förändrats ett antal gånger under årens lopp för att  alltid vara anpassade till utvecklingen av internationell handel.
+        Den version som nu gäller har beteckningen Incoterms 2010. Incotermsärerkändaavmyndigheterochdomstolar världenöver.
+        Det är mycket viktigt att företagen (parterna) skriver kontrakt om vad som ska gälla under transporten.
+        Leveransvillkoretbestämmer vemsomskabetalaförsäkringavvarornaunder transporten, när risken för varorna övergår från säljaren till köparen m.m.
+        Incoterms talar om:
+        \n
+        \n
+        &#9830;Till vilken plats transporten ska ske. \n
+        &#9830;Om lastning och lossning ingår.\n
+        &#9830;När risken överförs från ena parten till den andra.\n
+        &#9830;Vem som ska betala transporten, försäkring och andra kostnader.\n
+        \n
+        <b>FOB,FreeOnBoard</b>\n
+        (Fritt ombord) (Med angiven inlastningshamn) \n
+        \n
+        FOB används bara vid sjötransport.
+        Säljaren har uppfyllt sin skyldighet när varorna passerat fartygets skeppssida i den inlastningshamn som bestämts.
+        Därefter övergår risken till köparen. Säljaren står för  lastningskostnaderna.
+        Vid FOB skall säljaren deklarera  varorna för export samt skriva ut faktura.
+        Säljaren ska också meddela köparen när varorna har levererats. Transporten ordnas av köparen.
+        Han måste informera säljaren  om transporten för att denne ska kunna organisera lastning av varorna.
+        Köparen står för kostnaderna efter det att varorna passerat  skeppssidan och ombesörjer importen av varorna.
+        Försäkring kan tecknas av köparen och av säljaren fram till fartyget. (källa expowera)
+        \n
+        \n
+        Är du intresserad att läsa mer om vad de olika fraktreglerna innebär se länk:
+        \n
+        \n
+        <a href="www.expowera.se">www.expowera.se</a></string>
+    <string name="calculate_cost"><b><i>Beräkna frakt kostnad:</i></b></string>
+    <string name="cost_string">
+        1. Transport till lasthamn i Kina (ingår i FOB)\n
+        2. Exportklarering i Kina (Ingår i FOB) \n
+        3. Fraktkostnad (ingår i CIF, räkna ut ett ca pris här) \n
+        4. Försäkring (Ingår i CIF) \n
+        5. Hamnavgifter i destinationshamn i Sverige \n
+        6. Speditöravgift \n
+        7. Tullavgifter (5% av pris på vara + fraktkostnad, betalas separat vid ankomst) \n
+        8. Moms (betalas separat vid ankomst) \n
+        9. Transport från hamnen till Destination (Betalas separat)\n
+    </string>
+    <string name="cost_input"><b>Fyll i mängd:</b></string>
+    <string name="cost_output"><b>Frakt kostnad:</b></string>
+    <string name="cost_unit_kg"><b>kg</b></string>
+    <string name="cost_unit_m"><b>m&#179;</b></string>
+
+</resources>

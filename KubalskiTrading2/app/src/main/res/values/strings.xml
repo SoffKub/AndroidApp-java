@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">KubalskiTrading</string>
+    <string name="action_settings">Settings</string>
+    <string name="for_you">
+        &#8226;<i>We go directly to the right supplier without intermediaries.</i> \n
+        &#8226;<i>We take full responsibility from door to door.</i>\n
+        &#8226;<i>We will help you from concept to product. </i>\n
+        &#8226;<i>We will help you create your parts / products; for the right price with the required quality.</i> \n
+        \n
+        <b>The first step:</b>
+        \n
+        \n
+        You, the customer sends in information to us on your part / product that you want to manufacture in China and / or India.
+        It may be a drawing, contents, sketch, design or a physical product.
+        \n
+        \n
+        We are going through, which is / are of our suppliers / manufacturers suitable for your product.
+        We send out a request to selected suppliers / manufacturers.
+        \n
+        \n
+        We will get back to you with a quote.
+        \n
+        <b>Until this point, it\'s free !!</b>
+        \n
+        \n
+        <b>Second step:</b>
+        \n
+        \n
+        When we received approval from you on the quote, created a first sample and cooperation begins.
+        Exciting! We will be your contact selected supplier / manufacturer and is responsible for Order from door to door.
+        We also handle storage, packaging and transport if desired.
+        \n
+        \n
+        (We ensure that our business partners working for renowned quality, with at least ISO 9001 as the base, production tools High standard and that modern CAD system is in use.)
+        </string>
+    <string name="home1">
+        Kubalski Trading AB goes directly to the right supplier without intermediaries.
+        We ensure that our business partnersworking for renowned quality,with at least ISO 9001 as the base,production tools high standard and that modern CAD system is in use.
+        \n
+    </string>
+    <string name="home2">
+        With an office in Sweden as well as a factory in China with 125 people, we see that constantly monitor the market and maintain a high level of service to our clients.
+        \n
+        \nOur customers include both small and large businesses in all areas of activity, as well as individuals.
+        \n
+        \n
+        Do not hesitate to contact us! Regardless of the volume size your inquiry is important for us.
+    </string>
+    <string name="home3">
+        \n
+        <b><i>Edward Kubalski</i></b>
+        \n
+        Tel: 0157-402 55
+        \n
+        Fax: 0157-402 55
+        \n
+        Mobil: 0708-17 48 31
+        \n</string>
+
+    <string name="incoterm2">
+       <b><i> Sort things out:</i></b>
+        \n
+        \n
+        <b><i>"Incoterms</i></b> or <b><i>international commerce terms</i></b> is a series of international trade terms,
+        standardized contract terms, how goods transport and liability should divided between buyers and sellers. " (Wikipedia)
+    </string>
+    <string name="incoterm3">
+        <b><i>FOB</i></b> – <b><i>Free On Board:</i></b>
+        \n
+        The goods carried on board a ship by the seller in the port of shipment as defined in the agreement.
+        The danger of loss or damage to the goods is transferred from seller to buyer when the goods pass the ship\'s rail.
+    </string>
+    <string name="incoterm4">
+        <b><i>CIF</i></b> – <b><i>Cost, Insurance and freight:</i></b>
+        \n
+        The seller in this case obtain a marine insurance against the risk of loss or damage to goods during transportation.
+        The seller contracts with the insurer and pays the insurance premium.
+        \n
+        \n
+       <i> Click on this picture to get a better insight into the various the terms before we continue, we use most of the CIF and FOB.</i>
+    </string>
+    <string name="incoterm_selector">Select one to read about:</string>
+    <string name="cif_string">
+        \n
+        <b>Incoterms-CIF</b>
+        \n
+        \n
+        <b>Incoterms are internationally recognized rules which describes who is responsible for the goods during transport and for how long.</b>
+        \n
+        \n
+        By referring to these regulations sellers and buyers can avoid unnecessary misunderstandings.
+        The rules have changed a number of times over the years to always be adapted to the development of international trade.
+        The version currently in force is designated Incoterms 2010. Incoterms are recognized by the authorities and courts around the world.
+        It is very important that companies (the parties) signs contract for what is to apply during transit.
+        Delivery condition determines who should pay insurance of goods during transport, when the risk of release from seller to buyer.
+        \n
+        <b>Incoterms are talking about</b>:
+        \n
+        \n
+        &#9830;Who will pay the transportation, insurance and other costs.\n
+        &#9830;To which place the shipment will take place.\n
+        &#9830;When loading and unloading included.\n
+        &#9830;When the risk is transferred from one party to the other.\n
+        \n
+        \n
+        CIF - <b>Cost,Insurance,Freight</b>
+        \n
+        (Cost, Insurance and Freight) (With the named port of destination)
+        \n
+        \n
+        CIF is only used in maritime transport.
+        CIF means that both partners have the same obligations and  rights with the exception that the seller has the obligation to subscribe and pay for a sea transport insurance.
+        The buyer assumes the risk after the goods have been loaded in the port of departure. This means that in case of damage or loss as pay the insurance compensation to the buyer.
+        Seller is only obliged to take out insurance with minimal protection.
+        Would the buyer to have an insurance policy with extended coverage seller shall arrange it but the buyer should be the cost, unless agreed otherwise in the buy-sell agreement.
+        It is the buyer to arrange imports and relief the dates of the port if it is not included in the shipment.
+        (Source expowera) Are you interested to learn more about what the different shipping rules, see the link;
+        \n
+        \n
+        <a href="http://www.iccwbo.org/products-and-services/trade-facilitation/incoterms-2010/the-incoterms-rules/">www.iccwbo.org</a>
+    </string>
+    <string name="fob_string">
+        \n
+        <b>Incoterms-FOB</b>
+        \n
+        \n
+        <b>Incoterms are internationally recognized rules which describes who is responsible for the goods during transport and for how long.</b>
+        \n
+        \n
+        By referring to these regulations can sellers and buyers avoid unnecessary misunderstandings.
+        The rules have changed a number of times over the years to always be adapted to the development of international trade.
+        The version currently in force is designated Incoterms 2010. Incoterms are recognized by the authorities and courts around the world.
+        It is very important that companies (the parties) signs contract for what is to apply during transit.
+        Delivery condition determines who should pay insurance of goods during transport, when the risk of release from seller to buyer
+        <b>Incoterms are talking about:</b>
+        \n
+        \n
+        &#9830;Who will pay the transportation, insurance and other costs.\n
+        &#9830;To which place the shipment will take place.\n
+        &#9830;When loading and unloading included. \n
+        &#9830;When the risk is transferred from one party to the other.\n
+        \n
+        <b>FOB,FreeOnBoard</b>
+        \n
+        (Free on board) (with the specified port of shipment)
+        \n
+        \n
+        FOB is only used in maritime transport.
+        The seller has fulfilled his obligation when the goods are passed the vessels side in the port of shipment determined.
+        Thereafter, the risk passes to the buyer. The seller is responsible for  loading costs.
+        At FOB seller shall declare goods for export and print the invoice.
+        The seller must also notify the buyer when the goods have been delivered.
+        The transport arranged by the buyer.
+        He must inform the seller if the shipment in order for him to be able to organize the loading of the goods.
+        The buyer pays the costs after the goods have passed the ships side and arrange the importation of goods.
+        Insurance can be signed by the buyer and the seller up to the ship.
+        (Source expowera)
+        \n
+        \n
+        Are you interested to learn more about what the different shipping rules, see the link:
+        \n
+        \n
+        <a href="http://www.iccwbo.org/products-and-services/trade-facilitation/incoterms-2010/the-incoterms-rules/">www.iccwbo.org</a>
+    </string>
+    <string name="calculate_cost"><b><i>Calculate shipping cost:</i></b></string>
+    <string name="cost_string" formatted="false">
+        1. Transport of cargo port in China (included in FOB)\n
+        2. Export clearance in China (Included in FOB)\n
+        3. Shipping costs (included in the CIF, figure out an about price here)\n
+        4. Insurance (Included in CIF)\n
+        5. Port charges in the destination port in Sweden\n
+        6. Forwarding charge\n
+        7. Customs duties (5% of the price of being + shipping cost, paid separately on arrival)\n
+        8. Value Added Tax 25% (paid separately on arrival)\n
+        9. Transportation from port to destination (paid separately)\n
+    </string>
+    <string name="cost_input"><b>Enter amount:</b></string>
+    <string name="cost_output"><b>Shipping cost:</b></string>
+    <string name="cost_unit_kg"><b>kg</b></string>
+    <string name="cost_unit_m"><b>m&#179;</b></string>
+
+</resources>
